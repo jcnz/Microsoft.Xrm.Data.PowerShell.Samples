@@ -1,0 +1,2 @@
+UserPrincipalName,DisplayName,FirstName,LastName,PhoneNumber,MobilePhone,PostalCode,City,Country,State,StreetAddress,Title,Department,Office,Fax,UsageLocation,Password,StrongPasswordRequired,PasswordNeverExpires,ForceChangePassword,BusinessUnitName,SecurityRoleName,SystemUserId,BusinessUnitId
+user@unknown.com,,Aaron,Wilson,,,,,,,,,,,,,,,,,BU1,SecurityRole1|SecurityRole2,,
